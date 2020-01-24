@@ -22,6 +22,10 @@ nav .custom-img {
     border:black 3px solid;
     margin-bottom: 3%;
 }
+body p {
+    padding-left: 5%;
+    padding-right:5%;
+}
 @media screen and (max-width: 700px) {
     body {
       background-color: olive;
